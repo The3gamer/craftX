@@ -2,6 +2,8 @@ package com.the3gamer.craftX
 
 public class craftX_Core extends java minecraft api
 
+}
+
 start()
 
 public void () 
@@ -50,7 +52,7 @@ exitmc()
 if applet.minecraft.crash = @override
 killmc()
 
-
+@override
 
 
 \**
@@ -61,4 +63,13 @@ killmc()
 *
 */
 
-(new.loader
+          }
+         }
+        }
+       }
+      {
+     {
+    {
+   {
+  {
+}
