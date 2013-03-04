@@ -1,0 +1,64 @@
+package com.the3gamer.craftX
+
+public class craftX_Core extends java minecraft api
+
+start()
+
+public void () 
+
+@override
+
+load()
+
+public boolean (new.logger
+
+@override 
+load mods()
+
+get.file("craftx log.txt
+
+@override
+start minecraft()
+
+public applet.minecraft.load
+
+@override() 
+checkmodforge
+
+if ("mod_(name)").get.archive.file("craftxAPI.class")
+
+
+if true = @override
+
+public boolean com.the3gamer.craftx.modload
+
+if false = @override
+
+public boolean cpw.mods.forge.mods.load
+
+if public boolean cpw.mods.forge.mods.load = repeat()
+@override
+checkmodforge
+
+
+@override
+rest()
+
+if public void(0) = @override
+exitmc()
+
+if applet.minecraft.crash = @override
+killmc()
+
+
+
+
+\**
+*
+*author the3gamer
+*
+* api for my mods
+*
+*/
+
+(new.loader
